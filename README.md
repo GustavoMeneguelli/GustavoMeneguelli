@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente trabalho como agente de atendimento
 - 🌱 Estudando Python
-- 😄 ele/dele
 - ⚡ Fato interessante: Não sabia que esse site existia.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
